@@ -1,0 +1,9 @@
+Linux Level 0 - Basic Commands
+
+pwd - Shows current directory
+ls - Lists files and folders
+cd - Changes directories
+mkdir - Creates a directory
+touch - Creates an empty file
+cp - Copies files
+mv - Moves or renames files
