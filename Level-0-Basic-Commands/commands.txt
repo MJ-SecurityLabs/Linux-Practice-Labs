@@ -7,3 +7,6 @@ mkdir - Creates a directory
 touch - Creates an empty file
 cp - Copies files
 mv - Moves or renames files
+rm - Removes files
+cat - Displays file contents
+clear - Clears the terminal screen
